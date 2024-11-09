@@ -1,7 +1,10 @@
 # APP-GradeCalculator
 
-###  **GIF de Demonstração**
-Um **GIF** demonstrando o uso do aplicativo está disponível no diretório `app/images/app_example.gif`. O GIF pode ser utilizado para entender visualmente a funcionalidade do aplicativo e o fluxo de interação.
+### **GIF de Demonstração**
+
+Veja o **GIF** abaixo para entender o fluxo de interação com o aplicativo:
+
+![Demonstração do aplicativo](app/images/app_example.gif)
 
 
 ## Visão Geral
